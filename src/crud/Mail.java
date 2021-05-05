@@ -195,7 +195,8 @@ Online Video Tutorials: check these for the most popular email clients.*/
 			}
 		});
 
-		//paramétrer et envoyer le message  
+		//paramétrer et envoyer le message 
+		// lien entre l'écran et le mail : uiMail, uiObjet, uiMsg
 		try {
 			MimeMessage message = new MimeMessage(session);
 			message.setFrom(new InternetAddress(user));
