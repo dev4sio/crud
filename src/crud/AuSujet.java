@@ -15,6 +15,7 @@ import java.util.logging.Logger;
 /**
  *
  * @author patrick DUPRE
+ * ce projet est projet de démo
  */
 public class AuSujet extends javax.swing.JFrame {
 
